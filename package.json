@@ -1,0 +1,18 @@
+{
+  "name": "planejamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "some-command-to-run-your-dev-server", 
+    "build": "some-command-to-build-your-project",   
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://guilhermeeijiy.github.io/Planejamento/",
+  "devDependencies": {
+    "gh-pages": "^X.Y.Z" 
+  }
